@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64e5ed58-19f6-40a8-b832-0ca993fbca3a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Gábor, Kállay &lt;kallay.gabesz@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c2o9v5ne7pGy47E8YhC2LBU0di" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/containers" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64e5ed58-19f6-40a8-b832-0ca993fbca3a" name="Default Changelist" comment="" />
+      <created>1589735900633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589735900633</updated>
+      <workItem from="1589735901836" duration="9751000" />
+      <workItem from="1590515057240" duration="5603000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit for robofriends for try out github pages">
+      <created>1590520980190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590520980190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init commit for robofriends for try out github pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit for robofriends for try out github pages" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2024" y="286" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590515192545">
+      <screen x="1920" y="96" width="2560" height="1057" />
+    </state>
+    <state x="2024" y="286" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1590515192545" />
+    <state x="2285" y="424" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589834806308">
+      <screen x="1920" y="96" width="2560" height="1057" />
+    </state>
+    <state x="2285" y="424" key="#com.intellij.fileTypes.FileTypeChooser/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1589834806308" />
+    <state x="2298" y="378" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589784611488">
+      <screen x="1920" y="96" width="2560" height="1057" />
+    </state>
+    <state x="2298" y="378" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1589784611488" />
+    <state x="2130" y="114" key="CommitChangelistDialog2" timestamp="1590520979959">
+      <screen x="1920" y="96" width="2560" height="1057" />
+    </state>
+    <state x="2130" y="114" key="CommitChangelistDialog2/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1590520979959" />
+    <state x="2148" y="366" key="IDE.errors.dialog" timestamp="1590519564534">
+      <screen x="1920" y="96" width="2560" height="1057" />
+    </state>
+    <state x="2148" y="366" key="IDE.errors.dialog/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1590519564534" />
+    <state x="2288" y="250" key="RollbackChangesDialog" timestamp="1589784781081">
+      <screen x="1920" y="96" width="2560" height="1057" />
+    </state>
+    <state x="2288" y="250" key="RollbackChangesDialog/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1589784781081" />
+    <state x="2698" y="305" width="1566" height="722" key="SettingsEditor" timestamp="1589785651300">
+      <screen x="1920" y="96" width="2560" height="1057" />
+    </state>
+    <state x="778" y="232" key="SettingsEditor/0.23.2560.1057@0.23.2560.1057" timestamp="1589738052972" />
+    <state x="2698" y="305" width="1566" height="722" key="SettingsEditor/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1589785651300" />
+    <state x="2160" y="360" key="Vcs.Push.Dialog.v2" timestamp="1590520983540">
+      <screen x="1920" y="96" width="2560" height="1057" />
+    </state>
+    <state x="2160" y="360" key="Vcs.Push.Dialog.v2/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1590520983540" />
+    <state x="2382" y="520" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590520888470">
+      <screen x="1920" y="96" width="2560" height="1057" />
+    </state>
+    <state x="2382" y="520" key="git4idea.remote.GitConfigureRemotesDialog/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1590520888470" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1590518663423">
+      <screen x="1920" y="96" width="2560" height="1057" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/0.23.2560.1057@0.23.2560.1057" timestamp="1589736492994" />
+    <state width="600" height="440" key="javadoc.popup/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1590518663423" />
+    <state x="2225" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1589833947772">
+      <screen x="1920" y="96" width="2560" height="1057" />
+    </state>
+    <state x="2225" y="331" width="670" height="676" key="search.everywhere.popup/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1589833947772" />
+  </component>
+</project>
