@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64e5ed58-19f6-40a8-b832-0ca993fbca3a" name="Default Changelist" comment="Add gh pages predeploy and deploy script">
-      <change afterPath="$PROJECT_DIR$/src/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constant.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers.js" afterDir="false" />
+    <list default="true" id="64e5ed58-19f6-40a8-b832-0ca993fbca3a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constant.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constant.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,9 @@
       <option name="presentableId" value="Default" />
       <updated>1589735900633</updated>
       <workItem from="1589735901836" duration="9751000" />
-      <workItem from="1590515057240" duration="9669000" />
+      <workItem from="1590515057240" duration="10193000" />
+      <workItem from="1590673471169" duration="54000" />
+      <workItem from="1590693314725" duration="3422000" />
     </task>
     <task id="LOCAL-00001" summary="init commit for robofriends for try out github pages">
       <created>1590520980190</created>
@@ -87,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590521332703</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add redux with connect and store">
+      <created>1590527208421</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590527208421</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +106,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init commit for robofriends for try out github pages" />
     <MESSAGE value="Add gh pages predeploy and deploy script" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add gh pages predeploy and deploy script" />
+    <MESSAGE value="Add redux with connect and store" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add redux with connect and store" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -115,10 +125,10 @@
       <screen x="1920" y="96" width="2560" height="1057" />
     </state>
     <state x="2298" y="378" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1589784611488" />
-    <state x="2130" y="114" key="CommitChangelistDialog2" timestamp="1590523668092">
+    <state x="2130" y="114" key="CommitChangelistDialog2" timestamp="1590527208233">
       <screen x="1920" y="96" width="2560" height="1057" />
     </state>
-    <state x="2130" y="114" key="CommitChangelistDialog2/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1590523668092" />
+    <state x="2130" y="114" key="CommitChangelistDialog2/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1590527208233" />
     <state x="2148" y="366" key="IDE.errors.dialog" timestamp="1590519564534">
       <screen x="1920" y="96" width="2560" height="1057" />
     </state>
@@ -132,14 +142,18 @@
     </state>
     <state x="778" y="232" key="SettingsEditor/0.23.2560.1057@0.23.2560.1057" timestamp="1589738052972" />
     <state x="2698" y="305" width="1566" height="722" key="SettingsEditor/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1589785651300" />
-    <state x="2160" y="360" key="Vcs.Push.Dialog.v2" timestamp="1590521336141">
+    <state x="2160" y="360" key="Vcs.Push.Dialog.v2" timestamp="1590527210148">
       <screen x="1920" y="96" width="2560" height="1057" />
     </state>
-    <state x="2160" y="360" key="Vcs.Push.Dialog.v2/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1590521336141" />
+    <state x="2160" y="360" key="Vcs.Push.Dialog.v2/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1590527210148" />
     <state x="2361" y="541" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590526557105">
       <screen x="1920" y="96" width="2560" height="1057" />
     </state>
     <state x="2361" y="541" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1590526557105" />
+    <state x="2200" y="233" width="584" height="783" key="find.popup" timestamp="1590696539006">
+      <screen x="1920" y="96" width="2560" height="1057" />
+    </state>
+    <state x="2200" y="233" width="584" height="783" key="find.popup/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1590696539006" />
     <state x="2382" y="520" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590520888470">
       <screen x="1920" y="96" width="2560" height="1057" />
     </state>
@@ -149,9 +163,9 @@
     </state>
     <state width="600" height="440" key="javadoc.popup/0.23.2560.1057@0.23.2560.1057" timestamp="1589736492994" />
     <state width="600" height="440" key="javadoc.popup/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1590518663423" />
-    <state x="2225" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1590526563248">
+    <state x="2225" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1590697918791">
       <screen x="1920" y="96" width="2560" height="1057" />
     </state>
-    <state x="2225" y="331" width="670" height="676" key="search.everywhere.popup/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1590526563248" />
+    <state x="2225" y="331" width="670" height="676" key="search.everywhere.popup/1920.96.2560.1057/0.23.1920.1177@1920.96.2560.1057" timestamp="1590697918791" />
   </component>
 </project>
